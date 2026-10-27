@@ -1,0 +1,5 @@
+- insert:
+    - id: dsh-info-radar
+      name: dsh-info-radar
+      config:
+        defaultIntervalMinutes: 1440

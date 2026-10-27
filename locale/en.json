@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Info Radar",
+    "description": "Scrapes watched pages on a schedule, summarizes new items, shows an unread badge, and can push updates to QQ."
+  }
+}
