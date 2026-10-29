@@ -29,12 +29,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JJilove123456/dsh-information-radar.git"
+    "url": "git+https://github.com/JJhaojie/dsh-information-radar.git"
   },
   "bugs": {
-    "url": "https://github.com/JJilove123456/dsh-information-radar/issues"
+    "url": "https://github.com/JJhaojie/dsh-information-radar/issues"
   },
-  "homepage": "https://github.com/JJilove123456/dsh-information-radar#readme",
+  "homepage": "https://github.com/JJhaojie/dsh-information-radar#readme",
   "scripts": {
     "test": "node --test tests/*.test.mjs"
   },

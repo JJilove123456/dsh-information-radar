@@ -22,7 +22,7 @@
 > 它是被「通知发了三天我才知道」逼出来的：每天手动翻十个网站，翻完还漏。
 > 现在把网址丢进去，剩下的交给它。
 >
-> **用着有问题、想要新功能、或者只是想说一句「装上了」，都欢迎 [开一个 Issue](https://github.com/JJilove123456/dsh-information-radar/issues/new)。**
+> **用着有问题、想要新功能、或者只是想说一句「装上了」，都欢迎 [开一个 Issue](https://github.com/JJhaojie/dsh-information-radar/issues/new)。**
 > 我会把真实的抓取场景排进下一版——被最多人需要的那个，先做。
 
 ![信息雷达总览](docs/images/overview.png)
@@ -76,7 +76,7 @@
 ```text
 帮我安装 dsh-info-radar 插件（一个给 DeepSeek Harness 用的网页更新监控插件）。
 
-仓库：https://github.com/JJilove123456/dsh-information-radar
+仓库：https://github.com/JJhaojie/dsh-information-radar
 
 请按顺序做，每步都告诉我结果：
 1. 确认我当前使用的 profile 名。桌面端一般是 desktop：跑 dsh plugin --profile desktop list 能成功就说明名字对。
@@ -94,7 +94,7 @@
 
 ```bash
 # 1. 克隆到任意目录（路径不带空格最省事）
-git clone https://github.com/JJilove123456/dsh-information-radar.git
+git clone https://github.com/JJhaojie/dsh-information-radar.git
 
 # 2. 装进你的 profile（desktop 换成你自己的 profile 名：desktop / web / tui）
 dsh plugin --profile desktop add -w "dsh-information-radar的绝对路径"
@@ -360,13 +360,13 @@ npm test
 
 ## License
 
-[MIT](LICENSE) © 2026 JJilove123456
+[MIT](LICENSE) © 2026 JJhaojie
 
 ---
 
 <div align="center">
 
 **如果它帮到你了，记得点个 ⭐ Star。**
-**有场景没覆盖？[开 Issue](https://github.com/JJilove123456/dsh-information-radar/issues/new) 告诉我，下一个版本可能就是你提的。**
+**有场景没覆盖？[开 Issue](https://github.com/JJhaojie/dsh-information-radar/issues/new) 告诉我，下一个版本可能就是你提的。**
 
 </div>
